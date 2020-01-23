@@ -1,0 +1,6 @@
+echo "# Goose" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/ChibyKnight/Goose.git
+git push -u origin master
